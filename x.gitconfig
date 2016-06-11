@@ -2,7 +2,7 @@
 	name = Shenggang
 	email = 1093030044@qq.com
 [i18n]
-	commitencoding = utf-8
+	commitencoding = GB2312
 [color]
 	ui = true
 
